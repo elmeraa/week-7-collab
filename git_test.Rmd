@@ -7,6 +7,8 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
 ```
 
 Howdy partner! 
@@ -15,5 +17,11 @@ Hello there!
 
 ```{r}
 plot(1:20)
+
+```
+
+```{r}
+
+
 ```
 
