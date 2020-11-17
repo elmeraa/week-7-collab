@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Howdy partner! 
 
 Hello there!
+
+```{r}
+plot(1:20)
+```
+
